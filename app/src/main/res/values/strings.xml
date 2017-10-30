@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab 2.1 Loan Calculator</string>
+    <string name="EditPrice">Car Price</string>
+    <string name="EditPayment">Down Payment</string>
+    <string name="EditLoan">Loan Period</string>
+    <string name="EditInterest">Interest Rate(%)</string>
+    <string name="title_activity_result2">ResultActivity2</string>
+    <string name="ButtonCal">CALCULATE</string>
+    <string name="ViewPayment">Down payment</string>
+    <string name="ViewLoan">Loan period</string>
+    <string name="ViewInterest">Interest rate(%)</string>
+    <string name="ViewMonth">Month repayment</string>
+    <string name="buttonOK">OKAY</string>
+</resources>
